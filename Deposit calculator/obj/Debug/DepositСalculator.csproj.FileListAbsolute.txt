@@ -1,0 +1,12 @@
+C:\Users\mchvv\source\repos\AptalaevCalculatorNew2\AptalaevCalculatorNew2\bin\Debug\AptalaevCalculatorNew2.exe.config
+C:\Users\mchvv\source\repos\AptalaevCalculatorNew2\AptalaevCalculatorNew2\bin\Debug\AptalaevCalculatorNew2.exe
+C:\Users\mchvv\source\repos\AptalaevCalculatorNew2\AptalaevCalculatorNew2\bin\Debug\AptalaevCalculatorNew2.pdb
+C:\Users\mchvv\source\repos\AptalaevCalculatorNew2\AptalaevCalculatorNew2\obj\Debug\AptalaevCalculatorNew2.csproj.AssemblyReference.cache
+C:\Users\mchvv\source\repos\AptalaevCalculatorNew2\AptalaevCalculatorNew2\obj\Debug\AptalaevCalculatorNew2.Form1.resources
+C:\Users\mchvv\source\repos\AptalaevCalculatorNew2\AptalaevCalculatorNew2\obj\Debug\AptalaevCalculatorNew2.Properties.Resources.resources
+C:\Users\mchvv\source\repos\AptalaevCalculatorNew2\AptalaevCalculatorNew2\obj\Debug\AptalaevCalculatorNew2.csproj.GenerateResource.cache
+C:\Users\mchvv\source\repos\AptalaevCalculatorNew2\AptalaevCalculatorNew2\obj\Debug\AptalaevCalculatorNew2.csproj.CoreCompileInputs.cache
+C:\Users\mchvv\source\repos\AptalaevCalculatorNew2\AptalaevCalculatorNew2\obj\Debug\AptalaevCalculatorNew2.exe
+C:\Users\mchvv\source\repos\AptalaevCalculatorNew2\AptalaevCalculatorNew2\obj\Debug\AptalaevCalculatorNew2.pdb
+C:\Users\mchvv\source\repos\AptalaevCalculatorNew2\AptalaevCalculatorNew2\obj\Debug\AptalaevCalculatorNew2.ModuleForm.resources
+C:\Users\mchvv\source\repos\AptalaevCalculatorNew2\AptalaevCalculatorNew2\obj\Debug\AptalaevCalculatorNew2.AutorizationForm.resources
